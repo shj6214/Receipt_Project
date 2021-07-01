@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class PrintOrder {
 	int totalPrice = 0; 
 	
-	
 	public void printOrder(ArrayList<OrderListArray> orderList) {
 		System.out.println("\t     [영수증] ");
 		System.out.println("나무카페(역삼점) / 123-45-67890 / 전상열");

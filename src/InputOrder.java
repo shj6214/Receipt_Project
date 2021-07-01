@@ -6,7 +6,7 @@ public class InputOrder {
 	
 	Scanner sc = new Scanner(System.in);
 	
-	int addParchase=0;
+	int addParchase= 0;
 	
 	public int InputNo() {
 	    System.out.println("상품 번호를 입력하세요 " );

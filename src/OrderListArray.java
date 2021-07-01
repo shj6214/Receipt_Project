@@ -1,7 +1,7 @@
 package Receipt;
 
 public class OrderListArray {
-	
+
 	int no;
 	String name;
 	int price;

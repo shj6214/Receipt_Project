@@ -15,7 +15,6 @@ public class Receipt { // 클래스 명
 			ListOrder listOrd = new ListOrder(); 
 			
 			while(true) {
-			
 				OrderListArray item = new OrderListArray(0,null,0,0,0);	// OrderListArray 클래스 변수
 				listOrd.ListOrder(inputOrd,item);
 			    
