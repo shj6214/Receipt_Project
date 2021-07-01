@@ -3,8 +3,9 @@ package Receipt;
 import java.util.Scanner;
 
 public class InputOrder {
-	 
+	
 	Scanner sc = new Scanner(System.in);
+	
 	int addParchase=0;
 	
 	public int InputNo() {
